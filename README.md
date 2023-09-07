@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-506129747ryu.vercel.app/api/top-langs/?username=506129747ryu&layout=compact&show_icons=truek&theme=shadow_green" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats-506129747ryu.vercel.app/api?username=506129747ryu&show_icons=ture&theme=shadow_green" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats-506129747ryu.vercel.app/api/top-langs/?username=506129747ryu&count_private=true&layout=compact&show_icons=truek&theme=shadow_green" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-506129747ryu.vercel.app/api?username=506129747ryu&count_private=true&&show_icons=ture&theme=shadow_green" />
 </p>
 
 
